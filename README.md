@@ -8,4 +8,4 @@ How to Contribute
 
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
 
-This line was added by Farid.
+This line was added by Farid. Learning GitHub effectively requires both the book and a computer.
